@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Lopes</h1>
 
 ## 💫 About Me:
-👦🏻 Bachelor’s degree in Game Development<br>👾 Currently working on Portrait of God / Deepfall / Shadow of Memories<br>✔️ Published Delirium<br>🫱🏻‍🫲🏻 Looking to coolaborate with Game Development Companies<br>🌱 Currently learning JavaScript<br>⚡ Passionate in developing interactive experiences that combine technical complexity with engaging gameplay, with a strong passion for horror games and immersive storytelling.
+👦🏻 Bachelor’s degree in Game Development<br>👾 Currently working on Portrait of God / Deepfall / Shadow of Memories<br>✅ Published [Delirium](https://unholysaintstudios.itch.io/delirium)<br>🫱🏻‍🫲🏻 Looking to coolaborate with Game Development Companies<br>🌱 Currently learning JavaScript<br>⚡ Passionate in developing interactive experiences that combine technical complexity with engaging gameplay, with a strong passion for horror games and immersive storytelling.
 
 
 # 🌐 Socials:
